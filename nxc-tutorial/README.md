@@ -1,0 +1,3 @@
+# LEGO MindStormのNXCによる制御プログラミング
+
+NXCを使ったLEGO MindStormの演習用ガイド
